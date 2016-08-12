@@ -27,5 +27,16 @@ background-image: url("../img/background3.jpg");
   background-size: cover;
   padding-top:10%;
   padding-bottom:10%;
+}
 
+#contact{
+  padding-top:10%;
+  padding-bottom:10%;
+  background-image: url("../img/accord.jpg");
+  background-position:center center;
+  background-size: cover;
+}
+
+#contact label{
+  color: #871f78;
 }
