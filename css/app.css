@@ -7,3 +7,10 @@
   color: #ff1493;
 
 }
+.square-img{
+  padding-bottom: 60%;
+  background-color: green;
+  background-position: center center;
+  background-size: cover;
+  margin-bottom: 1.1rem;
+}
