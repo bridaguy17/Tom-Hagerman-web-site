@@ -5,6 +5,7 @@
   background-position:center center;
   background-size: cover;
   color: #ff1493;
+  min-height: 100vh;
 
 }
 .square-img{
